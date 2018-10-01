@@ -1,7 +1,7 @@
-!----------------------------------------------!
-PC Açıldığı Gibi Kısa Yolları Aktifleştirme:
+**!----------------------------------------------!**
+# PC Açıldığı Gibi Kısa Yolları Aktifleştirme:
 
-StartupDosyası.exe ile bilgisayarınızın startup dasyasına gidin.
+**StartupDosyası.exe ile bilgisayarınızın startup dasyasına gidin.
 Ve SpotifyTuşAtamaları.exe Dosyasını StartUP Klosörünün İçine Taşıyın.
 Ve Bilgisayarınızı Yeniden Başlatın! VE Ka-boom! Artık Sizinde Medya Tuşlarınız Var! :)
 Keyfli Zamanlar Geçirmeniz Dileği İle....
@@ -38,5 +38,5 @@ https://www.autohotkey.com/download/ahk-install.exe
 Sadece exe dosyası sizin için bunu yapıyor.
 
 Armağan.
-!----------------------------------------------!
+!----------------------------------------------!**
 
