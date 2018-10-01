@@ -1,0 +1,42 @@
+!----------------------------------------------!
+PC Açýldýðý Gibi Kýsa Yollarý Aktifleþtirme:
+
+StartupDosyasý.exe ile bilgisayarýnýzýn startup dasyasýna gidin.
+Ve SpotifyTuþAtamalarý.exe Dosyasýný StartUP Klosörünün Ýçine Taþýyýn.
+Ve Bilgisayarýnýzý Yeniden Baþlatýn! VE Ka-boom! Artýk Sizinde Medya Tuþlarýnýz Var! :)
+Keyfli Zamanlar Geçirmeniz Dileði Ýle....
+
+Armaðan.
+!----------------------------------------------!
+Oyundayken Kýsa Yollar Çalýþmýyor!?!?
+Bu Nasýl Ýþ Demeyin;
+
+SpotifyTuþAtamalarý.exe Dosyasýný Yönetici Olarak Çalýþtýrýn..
+Ve Tamamdýr Artýk Oyundaykende Çalýþacak Kýsa Yollar!
+
+Armaðan.
+!----------------------------------------------!
+Pekiya Baþlangýçta Açýlýnca Nasýl Yönetici Olarak Baþlatacaðým?;
+
+Startup Dosyasýna Gidin SpotifyTuþAtamalarý.exe Dosyasýný Seçip Sað Týklayýn.
+Özelliklere Týklayýn, Üst Kýsýmdaki Katagorilerden Uyumluluk Kýsmýna Gelin,
+Alt Kýsýmdan Bu Yönetici Olarak Çalýþtýrý Seçip Uygulaya Basalým. Ve Tamam'a Basýp Çýkalým.
+Tamamdýr! Artýk Program Bilgisayar Açýlýncada Yönetici Olarak Açýlacak!
+
+Umarým Memnun Olmuþsunuzdur.
+
+Armaðan.
+!----------------------------------------------!
+Naparsam Yapýyým Çalýþmýyor Tuþlar?!
+Ne Yapmalýyým?!;
+
+AutoHotkey Programýný Ýndirerek Halledebilirsiniz.
+AutoHotkeyiÝndir.exe yi Çalýþtýrýp Ýnirebilirsiniz.
+Ýstersenizde Bu Linki Tarayýcýnýza Yapýþtýrýp Halledebilirsiniz;
+https://www.autohotkey.com/download/ahk-install.exe
+
+Sadece exe dosyasý sizin için bunu yapýyor.
+
+Armaðan.
+!----------------------------------------------!
+
