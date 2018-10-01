@@ -1,4 +1,5 @@
-#### KLAVYESINDE MEDYA TUŞLARI OLMAYANLAR İÇİN Medya Tuşları Kısa Yolları!
+**Klavyesinde Medya Tuşu Olmayanlar İçin**
+[Medya Tuşu!](https://github.com/HDNameHD/SpotifyShortCuts)
 
 
 ![SSC Resim](https://i.imgur.com/RCKtXku.png)
