@@ -1,4 +1,4 @@
-![SSC Resim](resimag.com/p1/f8d5e4ceda.png)
+![SSC Resim](https://i.imgur.com/RCKtXku.png)
 
 
 
