@@ -1,3 +1,30 @@
+![SSC Resim](https://i.hizliresim.com/WDdPJ8.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## PC Açıldığı Gibi Kısa Yolları Aktifleştirme:
 
