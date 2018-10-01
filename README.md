@@ -1,3 +1,6 @@
+# KLAVYESINDE MEDYA TUŞLARI OLMAYANLAR İÇİN Medya Tuşları Kısa Yolları!
+
+
 ![SSC Resim](https://i.imgur.com/RCKtXku.png)
 
 - [x] İleri
