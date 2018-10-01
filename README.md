@@ -23,7 +23,7 @@ Shift+F5 | Sesi Aç
 
 
 
-
+# S.S.S.
 
  **PC Açıldığı Gibi Kısa Yolları Aktifleştirme:**
 
