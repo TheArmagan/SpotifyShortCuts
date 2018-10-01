@@ -1,6 +1,19 @@
 ![SSC Resim](https://i.imgur.com/RCKtXku.png)
 
+- [x] İleri
+- [x] Geri
+- [x] Durdur/Başlat
+- [x] Ses Kıs
+- [x] Ses Aç
 
+
+Tuşlar | İşlevleri
+------ | ----------
+Shift+F1 | Geri
+Shift+F2 | İleri
+Shift+F3 | Durdur/Başlat
+Shift+F4 | Sesi Kıs
+Shift+F5 | Sesi Aç
 
 
 
