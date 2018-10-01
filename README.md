@@ -6,9 +6,10 @@
 - [x] Ses Kıs
 - [x] Ses Aç
 
-
-
-
+░
+░
+░
+░
 
 
 Tuşlar | İşlevleri
@@ -18,10 +19,6 @@ Shift+F2 | İleri
 Shift+F3 | Durdur/Başlat
 Shift+F4 | Sesi Kıs
 Shift+F5 | Sesi Aç
-
-
-
-
 
 
 
@@ -50,8 +47,7 @@ Alt Kısımdan Bu Yönetici Olarak Çalıştırı Seçip Uygulaya Basalım. Ve T
 Tamamdır! Artık Program Bilgisayar Açılıncada Yönetici Olarak Açılacak!
 
 
-**Naparsam Yapıyım Çalışmıyor Tuşlar?!**
-Ne Yapmalıyım?!;
+**Naparsam Yapıyım Çalışmıyor Tuşlar?! Ne Yapmalıyım?!;**
 
 AutoHotkey Programını İndirerek Halledebilirsiniz.
 AutoHotkeyiİndir.exe yi Çalıştırıp İnirebilirsiniz.
