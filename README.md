@@ -52,7 +52,7 @@ Tamamdır! Artık Program Bilgisayar Açılıncada Yönetici Olarak Açılacak!
 AutoHotkey Programını İndirerek Halledebilirsiniz.
 AutoHotkeyiİndir.exe yi Çalıştırıp İnirebilirsiniz.
 İstersenizde Bu Linki Tarayıcınıza Yapıştırıp Halledebilirsiniz;
-https://www.autohotkey.com/download/ahk-install.exe
+```https://www.autohotkey.com/download/ahk-install.exe```
 
 Sadece exe dosyası sizin için bunu yapıyor.
 
